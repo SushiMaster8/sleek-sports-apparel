@@ -6,15 +6,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Welcome",
             "heading_size": "large"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text": "Sleek Sports Apparel is your one stop shop for all of the most in style sports clothing from leagues like NBA, NHL, NFL, MLB, and more",
+            "text_style": "subtitle"
           }
         },
         "button": {
@@ -35,8 +35,9 @@
         "button"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image": "shopify:\/\/shop_images\/Iverson.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
@@ -53,14 +54,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "The #1 clothing site for sports fans",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Check out our products down below for THE BEST in vintage designs from the 80s and 90s along with the classics from today.<\/p>"
           }
         }
       },
@@ -72,7 +73,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 40
       }
     },
     "1646408641c6d69f21": {
@@ -137,8 +138,8 @@
         "1646408641881df176-7"
       ],
       "settings": {
-        "product": "hudderton-backpack",
-        "color_scheme": "inverse",
+        "product": "lunar-cirque",
+        "color_scheme": "accent-1",
         "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false,
@@ -192,7 +193,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "Featured Collection",
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "color_scheme": "background-1",
