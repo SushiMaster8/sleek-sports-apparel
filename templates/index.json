@@ -170,27 +170,28 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "nba"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "cydney-plaid",
             "second_image": false
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "956ec845-800a-49dc-98b0-8b4924f2b637": {
+          "type": "product",
           "settings": {
-            "collection": ""
+            "product": "chevron",
+            "second_image": false
           }
         }
       },
       "block_order": [
         "collection-0",
         "product",
-        "collection-1"
+        "956ec845-800a-49dc-98b0-8b4924f2b637"
       ],
       "settings": {
         "heading": "Featured Collection",
